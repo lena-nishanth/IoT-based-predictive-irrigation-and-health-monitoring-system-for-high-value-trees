@@ -1,0 +1,1 @@
+# IoT-based-predictive-irrigation-and-health-monitoring-system-for-high-value-trees
